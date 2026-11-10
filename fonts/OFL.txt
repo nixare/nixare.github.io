@@ -3,3 +3,5 @@ Fonts in this folder are licensed under the SIL Open Font License, Version 1.1
 
 - Cinzel, Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel).
 - Patrick Hand SC, Copyright 2012 The Patrick Hand Authors (mail@patrickwagesreiter.at).
+
+KarnHorizon.woff2 is not covered by the OFL: it is Karn's own brand typeface (karntrails.com).
