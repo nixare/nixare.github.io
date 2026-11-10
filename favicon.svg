@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Nicola Aresta">
+  <rect width="64" height="64" rx="14" fill="#0A0C10"/>
+  <path d="M8 47 L22 24 L31 35 L44 13 L56 47 Z" fill="none" stroke="#C8A96E" stroke-width="4"
+        stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="44" cy="13" r="4" fill="#E0C080"/>
+</svg>
